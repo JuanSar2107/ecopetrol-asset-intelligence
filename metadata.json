@@ -1,0 +1,6 @@
+{
+  "name": "METTAV GROUP SAS - Gestión de Inventarios y Maquinaria",
+  "description": "Sistema oficial de METTAV GROUP SAS para la gestión integral de inventarios, maquinaria, equipos, herramientas y repuestos industriales con control de movimientos, auditoría y trazabilidad.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
